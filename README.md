@@ -17,6 +17,8 @@ olarak faz geçişlerinin tanımlanmasına izin verir. İki boyutlu kare kafes I
 geçişini gösteren en basit istatistiksel modellerden biridir. Dörtten büyük kafes boyutlarında,
 Ising modelinin faz geçişi ortalama alan teorisi ile açıklanmaktadır.
 
+![dsaasad](https://user-images.githubusercontent.com/32766583/89108196-265eda00-d43f-11ea-8857-67d63d9c411a.PNG)
+
 
 
 
